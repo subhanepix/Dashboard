@@ -6,4 +6,5 @@ For deployment, change the pathways for any imports utilizing a path reference. 
 
 to run just do pip install -r requirements.txt, and streamlit run Cprit_Impact_Summary.py
 
-hi 
+hi salmon 
+![salmon](salmon.jpeg "haha")
